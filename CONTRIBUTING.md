@@ -6,14 +6,10 @@ development.
 
 ## Background reading
 
-Before contributing code, please review our [Style Guide](STYLE_GUIDE.md) and
+Before contributing code, please fill our form our [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe-hMOTwrSNaX0d7JyqhZP-6TrmRel9tXJLpclCP1tjGMWzgQ/viewform) and
 [API Design Guide](API_DESIGN_GUIDE.md).
 
-Our [Roadmap](ROADMAP.md) contains an overview of the project goals and our
-current focus areas.
 
-We follow
-[Google's Open Source Community Guidelines](https://opensource.google/conduct/).
 
 ## Finding an issue
 
